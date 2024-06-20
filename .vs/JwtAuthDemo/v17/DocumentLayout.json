@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nzam Pistis\\source\\Home\\JwtAuthDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77FAE9-5F7D-4A28-A28B-851656B2E791}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\nzam pistis\\source\\home\\jwtauthdemo\\jwtauthdemo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77FAE9-5F7D-4A28-A28B-851656B2E791}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77FAE9-5F7D-4A28-A28B-851656B2E791}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\nzam pistis\\source\\home\\jwtauthdemo\\jwtauthdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77FAE9-5F7D-4A28-A28B-851656B2E791}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77FAE9-5F7D-4A28-A28B-851656B2E791}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\nzam pistis\\source\\home\\jwtauthdemo\\jwtauthdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE77FAE9-5F7D-4A28-A28B-851656B2E791}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77FAE9-5F7D-4A28-A28B-851656B2E791}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\nzam pistis\\source\\home\\jwtauthdemo\\jwtauthdemo\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77FAE9-5F7D-4A28-A28B-851656B2E791}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d98f7c4d-b652-422c-bcdf-3d0e2b2da2c1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Nzam Pistis\\source\\Home\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Nzam Pistis\\source\\Home\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\TestController.cs",
+              "RelativeToolTip": "JwtAuthDemo\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:30:46.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Nzam Pistis\\source\\Home\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Nzam Pistis\\source\\Home\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtAuthDemo\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:23:25.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nzam Pistis\\source\\Home\\JwtAuthDemo\\JwtAuthDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nzam Pistis\\source\\Home\\JwtAuthDemo\\JwtAuthDemo\\appsettings.json",
+              "RelativeToolTip": "JwtAuthDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T23:18:05.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nzam Pistis\\source\\Home\\JwtAuthDemo\\JwtAuthDemo\\Program.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Nzam Pistis\\source\\Home\\JwtAuthDemo\\JwtAuthDemo\\Program.cs",
+              "RelativeToolTip": "JwtAuthDemo\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:16:18.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
